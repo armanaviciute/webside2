@@ -1,0 +1,25 @@
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+h6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+header img {
+    margin-top: -5em;
+
+}
+
+i {
+    margin: 5px;
+}
+
+.pav li {
+    display: inline-block;
+}
