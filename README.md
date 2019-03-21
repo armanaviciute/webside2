@@ -1,1 +1,1 @@
-HTML,CSS,JAVASCRIPT,BOOTSTRAP
+Simple webside with HTML, CSS, JavaScript and Bootstrap
